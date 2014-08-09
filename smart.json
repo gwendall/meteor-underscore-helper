@@ -1,0 +1,12 @@
+{
+	"name": "underscore-helper",
+	"description": "Underscore functions directly available in templates",
+	"homepage": "",
+	"author": "Gwendall Esnault <gwendall.esnault@gmail.com>",
+	"version": "0.1.0",
+	"git": "",
+	"packages": {
+		'ui',
+		'underscore'
+	}
+}
