@@ -19,13 +19,14 @@ $ mrt add underscore-helper
 {{else}}
   It is not :(
 {{/if}}
-```
 
-Returns "It is!"
+// > Returns "It is!"
+```
 
 ``` sh
-{{_ "size" items}}
 // With var items = [1, 2, 3];
-```
 
-Returns 3
+{{_ "size" items}}
+
+// > Returns 3
+```
