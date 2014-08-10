@@ -3,7 +3,7 @@
   "description": "Underscore functions directly available in templates",
   "homepage": "https://github.com/Gwendall/meteor-underscore-helper",
   "author": "Gwendall Esnault <gwendall.esnault@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/Gwendall/meteor-underscore-helper",
   "packages": {}
 }
