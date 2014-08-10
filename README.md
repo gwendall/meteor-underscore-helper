@@ -3,9 +3,15 @@ Underscore-helper
 
 Brings Underscore functions directly in templates
 
------------
+## Installation
 
-Example:
+Install using Meteorite. When in a Meteorite-managed app directory, enter:
+
+```
+$ mrt add underscore-helper
+```
+
+## Example
 
 ``` sh
 {{#if _ "isString" "bonjour"}}
