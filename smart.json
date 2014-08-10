@@ -5,8 +5,5 @@
 	"author": "Gwendall Esnault <gwendall.esnault@gmail.com>",
 	"version": "0.1.0",
 	"git": "https://github.com/Gwendall/meteor-underscore-helper",
-	"packages": {
-		"ui": {},
-		"underscore": {}
-	}
+	"packages": {}
 }
