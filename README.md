@@ -1,4 +1,4 @@
-Underscore-helper
+Underscore Helper
 =================
 
 Brings Underscore functions directly in templates
