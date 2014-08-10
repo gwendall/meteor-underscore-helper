@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "underscore-helper": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "underscore-helper": {
+        "path": "."
+      }
+    }
+  }
+}
