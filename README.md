@@ -22,3 +22,10 @@ $ mrt add underscore-helper
 ```
 
 Returns "It is!"
+
+``` sh
+{{_ "size" items}}
+// With var items = [1, 2, 3];
+```
+
+Returns 3
