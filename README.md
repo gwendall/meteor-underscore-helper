@@ -3,9 +3,7 @@ Underscore Helper
 
 Brings Underscore functions directly in templates
 
-## Installation
-
-Install using Meteorite. When in a Meteorite-managed app directory, enter:
+## Installation  
 
 ### For Meteor 0.9+
 
