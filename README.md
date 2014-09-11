@@ -15,7 +15,7 @@ meteor add gwendall:underscore-helper
 ### For Meteor < 0.9
 
 ```
-$ mrt add underscore-helper
+mrt add underscore-helper
 ```
 
 ## Examples
