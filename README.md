@@ -5,12 +5,13 @@ Brings Underscore functions directly in templates
 
 ## Installation  
 
-### For Meteor 0.9+
+**For Meteor 0.9+**
 
 ```
 meteor add gwendall:underscore-helper
 ```
-### For Meteor < 0.9
+
+**For Meteor < 0.9**
 
 ```
 mrt add underscore-helper
