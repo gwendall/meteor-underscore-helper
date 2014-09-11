@@ -7,6 +7,9 @@ Brings Underscore functions directly in templates
 
 Install using Meteorite. When in a Meteorite-managed app directory, enter:
 
+###for Meteor 0.9+
+meteor add gwendall:underscore-helper
+
 ```
 $ mrt add underscore-helper
 ```
